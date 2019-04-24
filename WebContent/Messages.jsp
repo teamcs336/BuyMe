@@ -4,6 +4,9 @@
 <%@ page import = "com.cs336.pkg.*" %>
 <%@ page import="java.io.*,java.util.*,java.sql.*"%>
 <%@ page import="javax.servlet.http.*,javax.servlet.*" %> 
+
+<%--Written by Elizabeth Reynes--%>
+
 <!DOCTYPE html>
 <html>
 <head>
