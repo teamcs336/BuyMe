@@ -7,6 +7,8 @@
 <%@ page import="java.util.Date, java.text.DateFormat, java.text.SimpleDateFormat" %>
 
 
+<%--Written by Elizabeth Reynes--%>
+
 <!DOCTYPE html>
 <html>
 <head>
