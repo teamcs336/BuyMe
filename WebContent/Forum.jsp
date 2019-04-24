@@ -10,6 +10,7 @@
 <%@ page import="java.sql.Connection" %>
 <%@ page import="java.sql.DriverManager" %>
 
+<%--Written by Elizabeth Reynes--%>
 
 <!DOCTYPE html>
 <html>
